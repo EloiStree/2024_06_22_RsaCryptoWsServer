@@ -1,15 +1,15 @@
+
 # 2024_06_22_RsaCryptoWsServer
-Fuck me. Crypto and RSA is a pain in the ass outside of C#
 
+Crypto and RSA can be a pain outside of C#.
 
-- Try to do Ethereum Sign verfied in Python... Failed
-- Try to do PEM to XML in most language.. Failed
-- Try to make some RSA in Unity3D.. Not supported
-- Try to do Sign verified RSA in Rust.. Failed a lot's
-- ...
+- Tried to do Ethereum sign verification in Python... Failed
+- Tried to convert PEM to XML in most languages... Failed
+- Tried to implement RSA in Unity3D... Not supported
+- Tried to do sign verification with RSA in Rust... Failed a lot
 
-Try to do all that in C#:
-- Just download Nuget and use it
+Tried to do all that in C#:
+- Just download NuGet and use it
 
-Conclusion after month of failing around on different langage.
-Why not just do a C# Websocket server with all the utility needed callable from languages.
+Conclusion after months of failing with different languages:
+Why not just create a C# WebSocket server with all the necessary utilities callable from other languages?
