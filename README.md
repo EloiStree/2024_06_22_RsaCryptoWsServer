@@ -13,3 +13,6 @@ Tried to do all that in C#:
 
 Conclusion after months of failing with different languages:
 > Why not just create a C# WebSocket server with all the necessary utilities callable from other languages?
+
+
+Client: https://github.com/EloiStree/2024_06_22_RsaCryptoWsServerRustCall
