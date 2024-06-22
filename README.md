@@ -12,4 +12,4 @@ Tried to do all that in C#:
 - Just download NuGet and use it
 
 Conclusion after months of failing with different languages:
-Why not just create a C# WebSocket server with all the necessary utilities callable from other languages?
+> Why not just create a C# WebSocket server with all the necessary utilities callable from other languages?
